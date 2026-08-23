@@ -9,5 +9,7 @@ I run a small homelab on standalone Proxmox nodes with a segmented UniFi network
 ## Projects
 
 - **[Isolated Attack Range VLAN](./attack-range)** — a fully isolated network segment for offensive security practice, running intentionally vulnerable targets and an attacker workstation, walled off from the rest of the network at both the VLAN and firewall-zone level.
+- **[Proxmox Monitoring Stack](./monitoring-stack)** — Prometheus and Grafana across two standalone (non-clustered) Proxmox hosts, including debugging a community dashboard built against an outdated metric schema.
+- **[Wazuh SIEM Deployment](./wazuh-siem)** — full-fleet SIEM coverage across every homelab service and both hypervisor hosts, with tuned file integrity monitoring and working email alerting.
 
-More to come as I build them out — monitoring stack, automation scripts, and general homelab architecture notes.
+More to come as I build them out
