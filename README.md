@@ -1,6 +1,6 @@
 # Homelab Projects
 
-Documentation and write-ups from my self-hosted homelab — a mix of networking, virtualization, monitoring, and security projects I build and break in my own time.
+Documentation and write-ups from my self-hosted homelab. A mix of networking, virtualization, monitoring, and security projects I build and break in my own time.
 
 ## Why this exists
 
